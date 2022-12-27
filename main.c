@@ -1,5 +1,5 @@
 #include <stdio.h>
-//考試測驗
+//考試測驗https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30758
 int main(){
     int num1, num2, num3;
     int inptnum;
